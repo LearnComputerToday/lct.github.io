@@ -1,2 +1,1 @@
-# lct.github.io
-This is a Learn Computer Today Sample Portfolio
+https://learncomputertoday.github.io/lct.github.io/
